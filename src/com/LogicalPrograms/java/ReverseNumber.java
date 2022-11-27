@@ -23,6 +23,6 @@ public class ReverseNumber {
 			number = number / 10 ;     //reducing the digits in number
 		}
 		System.out.println("Reversed Number: "+reverse);  //print the output
-	}
+	 }
 
 }
