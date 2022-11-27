@@ -26,7 +26,7 @@ public class CouponNumbers {
 		String couponCode=stringbuffer.toString();
 		System.out.println("Coupon Code: "+couponCode);	
 
-    }
+     }
 
 
 }
